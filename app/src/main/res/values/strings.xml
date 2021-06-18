@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flash Cards</string>
+    <string name="titulo_materia">Título da matéria</string>
+    <string name="insira_sua_pergunta">Insira sua pergunta</string>
+</resources>
